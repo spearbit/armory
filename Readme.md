@@ -28,7 +28,7 @@ Spearbit is a distributed network of industry-leading security researchers tackl
 
 This section contains all externally available educational material from Spearbit. The goal of publicizing and creating content like this is to foster and support a community of dedicated researchers consistently motivated to take the next step in their web3 security knowledge and for that material to be just as beneficial to those with heavier experience in the field as it is to juniors.
 
-Tldr; We believe in elevating the standard for security research, thus our content will reflect the same.
+**Tldr**; We believe in elevating the standard for security research, thus our content will reflect the same.
 
 ## Report and Finding Breakdowns
 
