@@ -18,8 +18,8 @@ Spearbit is a distributed network of industry-leading security researchers tackl
 
 # Table of Contents
 - [Content Overview](#Content)
-- [Spearbit Tips](#Spearbit-Tips)
 - [Report and Findings Breakdowns](#Report-and-Finding-Breakdowns)
+- [Spearbit Tips](#Spearbit-Tips)
 - [Researcher Spotlights](#Researcher-Spotlights)
 - [Seminars and Breakdowns](#Seminars-and-Breakdowns)
 - [Core Team](#Core-Team)
@@ -29,6 +29,16 @@ Spearbit is a distributed network of industry-leading security researchers tackl
 This section contains all externally available educational material from Spearbit. The goal of publicizing and creating content like this is to foster and support a community of dedicated researchers consistently motivated to take the next step in their web3 security knowledge and for that material to be just as beneficial to those with heavier experience in the field as it is to juniors.
 
 Tldr; We believe in elevating the standard for security research, thus our content will reflect the same.
+
+## Report and Finding Breakdowns
+
+These breakdowns are concise and guided write-ups of findings from some of Spearbit’s top researchers. Study them intently in order to extract the process and perspective of some of the best researchers in the game.
+
+| Title | Risk | Protocol(s) | Written Breakdown | Full Report Link |
+| --- | --- | --- | --- | --- |
+| **Aave v3 Dependency** | **Critical** | Morpho Labs and Aave | [Breakdown](https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf) |
+| **Balancer Dependenc**y | **Critical** | Aera Finance and Balancer | [Breakdown](https://twitter.com/spearbitdao/status/1664726990618869762?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf) |
+| **“Clones-with-immutable-args” and improper Bytes Validation** | **Critical** | Sudoswap | [Breakdown](https://twitter.com/spearbitdao/status/1669088951238311943?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf) |
 
 ## Spearbit Tips
 
@@ -40,16 +50,6 @@ Spearbit Tips is a weekly initiative to introduce alpha for security researchers
 | 2 | **Proper Code Specification** | [Write-up](https://twitter.com/SpearbitDAO/status/1661786772072804361?s=20) |
 | 3 | **Clearly Defined Natspec** | [Write-up](https://twitter.com/SpearbitDAO/status/1665800702122250241?s=20) |
 | 4 | **Verification Patterns** | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
-
-## Report and Finding Breakdowns
-
-These breakdowns are concise and guided write-ups of findings from some of Spearbit’s top researchers. Study them intently in order to extract the process and perspective of some of the best researchers in the game.
-
-| Title | Risk | Protocol(s) | Written Breakdown | Full Report Link |
-| --- | --- | --- | --- | --- |
-| **Aave v3 Dependency** | **Critical** | Morpho Labs and Aave | [Breakdown](https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf) |
-| **Balancer Dependenc**y | **Critical** | Aera Finance and Balancer | [Breakdown](https://twitter.com/spearbitdao/status/1664726990618869762?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf) |
-| **“Clones-with-immutable-args” and improper Bytes Validation** | **Critical** | Sudoswap | [Breakdown](https://twitter.com/spearbitdao/status/1669088951238311943?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf) |
 
 ## Researcher Spotlights
 
