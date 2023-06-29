@@ -42,7 +42,7 @@ These breakdowns are concise and guided write-ups of findings from some of Spear
 
 ## Spearbit Tips
 
-Spearbit Tips is a weekly initiative to introduce alpha for security researchers and developers in order to support knowledge sharing across the web3 security ecosystem and continue raising the bar in our industry.
+Spearbit Tips is a weekly initiative to introduce general recommendations for security researchers and developers in order to support knowledge sharing across the web3 security ecosystem and continue raising the bar in our industry.
 
 | # | Title | Written Breakdown |
 | --- | --- | --- |
