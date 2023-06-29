@@ -1,13 +1,8 @@
 ![ARMORY](https://github.com/obheda12/portfolio/blob/master/ARMORY%20(2).png)
 
-<p align="center">
-  request a security review at
-  <a href="https://airtable.com/shrkxrtMKYJkLaXhT">spearbit.com</a>
-</p>
-
 <br>
 
-<h1 class="center" style=""> Request a Security Review </h1>
+<h1 class="center" style=""> Requesting a Security Review </h1>
 
 In order to request a security review, please fill out our short [request form](https://airtable.com/shrkxrtMKYJkLaXhT).
 
