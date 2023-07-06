@@ -50,6 +50,8 @@ Spearbit Tips is a weekly initiative to introduce general recommendations for se
 | 4 | **Verification Patterns** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
 | 5 | **In-line Comments** | **Hickup** | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
 | 6 | **Human Error and Test Coverage** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1674505243957026818?s=20) |
+| 7 | **Protocol Diagramming** | **Jonatas** | [Write-up](https://twitter.com/SpearbitDAO/status/1677031987612098562?s=20) |
+
 
 
 ## Researcher Spotlights
@@ -107,3 +109,6 @@ This section will serve to provide public visuals and diagrams of the complex sy
 | Title | Researcher | Protocol(s) | Diagram Link |
 | ---- | ---- | ---- | ---- |
 | **Sudoswap V2 Diagram** | **Gerard Persoon** | **Sudoswap** | [**Diagram**](https://twitter.com/sudoswap/status/1671985441820798976?s=20) |
+| **Compound Finance Governance and Lending/Borrowing** | **Jonatas** | **Compound** | [**Diagram**](https://twitter.com/SpearbitDAO/status/1677032020814315521?s=20) |
+| **Metastreet State Diagram** | **Jonatas** | **Metastreet** | [**Diagram**](https://twitter.com/SpearbitDAO/status/1677032031245443076?s=20) |
+
