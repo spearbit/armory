@@ -72,8 +72,11 @@ These spotlights serve to highlight the gems of the web3 security company workin
 
 These seminars and breakdowns provide deep technical content for security researchers that wish to elevate their current skillset and gain insights from a wide variety of experts in web3 security.
 
+https://www.youtube.com/watch?v=ObtRRW5yERY
+
 | Title | Written Breakdown | Additional Resources |
 | --- | --- | --- |
+| [**Community Workshop: Sudoswap by Rajeev, Cryptonicle1 and Deivitto**](https://youtu.be/ObtRRW5yERY) |  | — |
 | [**Arbiter - EVM logic simulator for security and performance testing**](https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s) | [Write-up](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | — |
 | [**WhatsABI? with Shazow**](https://www.youtube.com/watch?v=sfgassm8SKw&t=692s) |  | — |
 | [**Circuit Safety and an Introduction to Noir with Maddiaa & Maxim (Aztec Network)**](https://www.youtube.com/watch?v=rLvu61DA-hk) |  | — |
