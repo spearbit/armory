@@ -106,4 +106,4 @@ This section will serve to provide public visuals and diagrams of the complex sy
 
 | Title | Researcher | Protocol(s) | Diagram Link |
 | ---- | ---- | ---- | ---- |
-| **Sudoswap V2 Diagram** | **Gerard Persoon** | **Sudoswap** | [Diagram]([https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw] |
+| **Sudoswap V2 Diagram** | **Gerard Persoon** | **Sudoswap** | [Diagram]([https://twitter.com/spearbitdao/status/1658556015762190340?) |
