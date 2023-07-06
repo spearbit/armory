@@ -22,7 +22,7 @@ Spearbit is a distributed network of industry-leading security researchers tackl
 - [Spearbit Tips](#Spearbit-Tips)
 - [Researcher Spotlights](#Researcher-Spotlights)
 - [Seminars and Breakdowns](#Seminars-and-Breakdowns)
-- [Protocol Diagrams](#Protocol Diagrams)
+- [Protocol Diagrams](#Protocol-Diagrams)
 
 # Content
 
