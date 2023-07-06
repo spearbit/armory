@@ -64,6 +64,8 @@ These spotlights serve to highlight the gems of the web3 security company workin
 
 ## Seminars and Breakdowns
 
+These seminars and breakdowns provide deep technical content for security researchers that wish to elevate their current skillset and gain insights from a wide variety of experts in web3 security.
+
 | Title | Written Breakdown | Additional Resources |
 | --- | --- | --- |
 | [**Arbiter - EVM logic simulator for security and performance testing**](https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s) | [Write-up](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | — |
@@ -94,6 +96,9 @@ These spotlights serve to highlight the gems of the web3 security company workin
 | [**How to Foundry**](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)|[Foundry Book](https://book.getfoundry.sh)| |
 
 ## Protocol Diagrams
+
+This section will serve to provide public visuals and diagrams of the complex systems that our researchers come across during their security reviews in order to promote knowledge sharing and pattern matching for other security researchers in the industry.
+
 | Title | Researcher | Protocol(s) | Diagram Link |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | **Sudoswap V2 Diagram** | **Gerard Persoon** | **Sudoswap** | [Diagram]([https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw]
