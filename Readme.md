@@ -44,12 +44,15 @@ These breakdowns are concise and guided write-ups of findings from some of Spear
 
 Spearbit Tips is a weekly initiative to introduce general recommendations for security researchers and developers in order to support knowledge sharing across the web3 security ecosystem and continue raising the bar in our industry.
 
-| # | Title | Written Breakdown |
-| --- | --- | --- |
-| 1 | **Reviewing Optimized Yul** | [Write-up](https://twitter.com/SpearbitDAO/status/1661151785053192192?s=20) |
-| 2 | **Proper Code Specification** | [Write-up](https://twitter.com/SpearbitDAO/status/1661786772072804361?s=20) |
-| 3 | **Clearly Defined Natspec** | [Write-up](https://twitter.com/SpearbitDAO/status/1665800702122250241?s=20) |
-| 4 | **Verification Patterns** | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
+| # | Title | Author | Written Breakdown |
+| --- | --- | --- | --- |
+| 1 | **Reviewing Optimized Yul** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1661151785053192192?s=20) |
+| 2 | **Proper Code Specification** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1661786772072804361?s=20) |
+| 3 | **Clearly Defined Natspec** | **Hickup** | [Write-up](https://twitter.com/SpearbitDAO/status/1665800702122250241?s=20) |
+| 4 | **Verification Patterns** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
+| 5 | **In-line Comments** | **Hickup** | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
+| 6 | **Human Error and Test Coverage** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1674505243957026818?s=20) |
+
 
 ## Researcher Spotlights
 
@@ -57,12 +60,12 @@ These spotlights serve to highlight the gems of the web3 security company workin
 
 | Name | Spotlight |
 | --- | --- |
-| **@cmichelio**  | [Breakdown](https://twitter.com/spearbitdao/status/1660717529830924309?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
-| **@NoahMarconi** | [Breakdown](https://twitter.com/spearbitdao/status/1663653330575556608?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
-| **@0xLeastwood** | [Breakdown](https://twitter.com/spearbitdao/status/1666137357442068510?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
-| **@0xRajeev** | [Breakdown](https://twitter.com/spearbitdao/status/1670870725631123456?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
-| **@brockjelmore** | [Breakdown](https://twitter.com/SpearbitDAO/status/1675945568151957505?s=20) |
-
+| **@cmichelio**  | [Spotlight](https://twitter.com/spearbitdao/status/1660717529830924309?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
+| **@NoahMarconi** | [Spotlight](https://twitter.com/spearbitdao/status/1663653330575556608?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
+| **@0xLeastwood** | [Spotlight](https://twitter.com/spearbitdao/status/1666137357442068510?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
+| **@0xRajeev** | [Spotlight](https://twitter.com/spearbitdao/status/1670870725631123456?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
+| **@HickupH** | [Spotlight](https://twitter.com/SpearbitDAO/status/1674123020896436224?s=20) |
+| **@brockjelmore** | [Spotlight](https://twitter.com/SpearbitDAO/status/1675945568151957505?s=20) |
 
 
 ## Seminars and Breakdowns
