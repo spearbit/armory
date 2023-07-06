@@ -61,6 +61,9 @@ These spotlights serve to highlight the gems of the web3 security company workin
 | **@NoahMarconi** | [Breakdown](https://twitter.com/spearbitdao/status/1663653330575556608?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
 | **@0xLeastwood** | [Breakdown](https://twitter.com/spearbitdao/status/1666137357442068510?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
 | **@0xRajeev** | [Breakdown](https://twitter.com/spearbitdao/status/1670870725631123456?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
+| **@brockjelmore** | [Breakdown](https://twitter.com/SpearbitDAO/status/1675945568151957505?s=20) |
+
+
 
 ## Seminars and Breakdowns
 
