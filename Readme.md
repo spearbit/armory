@@ -10,8 +10,6 @@ For a brief overview of what Spearbit is and what we have to offer click [here](
 
 If you have any urgent needs or would prefer a direct contact, please reach out to our COO - miike@spearbit.com
 
-<br>
-
 <h1 class="center" style=""> Who are we? </h1>
 
 Spearbit is a distributed network of industry-leading security researchers tackling the most complex and mission-critical protocols across web3. Our network has extensive experience on every part of the blockchain technology stack. 
