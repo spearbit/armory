@@ -22,7 +22,7 @@ Spearbit is a distributed network of industry-leading security researchers tackl
 - [Spearbit Tips](#Spearbit-Tips)
 - [Researcher Spotlights](#Researcher-Spotlights)
 - [Seminars and Breakdowns](#Seminars-and-Breakdowns)
-- [Core Team](#Core-Team)
+- [Protocol Diagrams](#Protocol Diagrams)
 
 # Content
 
@@ -92,3 +92,8 @@ These spotlights serve to highlight the gems of the web3 security company workin
 | [**Spearbit at TrustX: Simplify Solidity Code with Sorted Contracts and Security Risk**](https://www.youtube.com/watch?v=NmSGA8X2Tcw)| |--|
 | [**Understanding Bridge Security with Connext's Arjun Bhuptani**](https://www.youtube.com/watch?v=gQzRpU6GYhc)| |--|
 | [**How to Foundry**](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)|[Foundry Book](https://book.getfoundry.sh)| |
+
+## Protocol Diagrams
+| Title | Researcher | Protocol(s) | Diagram Link |
+| --- | --- | --- | --- |
+| **Sudoswap V2 Diagram** | **Gerard Persoon** | **Sudoswap** | [Diagram]([https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw]
