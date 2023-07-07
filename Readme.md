@@ -75,32 +75,32 @@ These seminars and breakdowns provide deep technical content for security resear
 | Title | Author | Written Breakdown | Additional Resources |
 | --- | --- | --- | --- |
 | [**Community Workshop: Sudoswap**](https://youtu.be/ObtRRW5yERY) | **Rajeev, Cryptonicle1 and Deivitto** | — | |
-| [**Arbiter - EVM logic simulator for security and performance testing**](https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s) | [Write-up](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | — |
-| [**WhatsABI? with Shazow**](https://www.youtube.com/watch?v=sfgassm8SKw&t=692s) |  | — |
-| [**Circuit Safety and an Introduction to Noir with Maddiaa & Maxim (Aztec Network)**](https://www.youtube.com/watch?v=rLvu61DA-hk) |  | — |
-| [**Community Workshop: Clober by Hickup**](https://youtu.be/9sbUCjfM6P4) |  | — |
-| [**Numerical Analysis for DeFi Audits: Kurt Barry**](https://youtu.be/7_5hbOFGJM8) | [Write-up](https://paragraph.xyz/@spearbit/numerical-analysis) | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Numerical%20Reasoning%20For%20DeFi%20Audits.pdf) |
-| [**Economic Security with fmrmf**](https://youtu.be/_E5juBbF9s4) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Thinking_Through_Economic_Security.pdf) |
-| [**Security Education and Assessment Lab with Rajeev**](https://youtu.be/VhUUUN8Z-jw) |  | [Link](https://youtu.be/VhUUUN8Z-jw) |
-| [**Deep Dive Into Seaport with 0age**](https://youtu.be/LbrkzgoDR0g) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Deep_Dive_Into_Seaport.pdf) |
-| [**Optimal Front Running Attacks & How to Stop Them with Max Resnick**](https://youtu.be/BwkNQWM32y0) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Optimal_Frontrunning_Attacks_and_How_to_Stop_Them_2.pdf) |
-| [**From Exploit to Recovery: Unraveling DeFi Incidents with Spreek**](https://youtu.be/oIw6DG75-z4) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/From%20Exploit%20to%20Recovery_%20Unraveling%20DeFi%20Incidents.pdf) |
-| [**Community Workshop: Zach Obront**](https://youtu.be/PPfhIiclupc) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Spearbit-Astaria-Workshop.pdf) |
-| [**How to Foundry 2.0**](https://youtu.be/EHrvD5c93JU) |  | [Link](https://github.com/nascentxyz/How-to-Foundry) |
-| [**EVM Through HUFF: Devtooligan**](https://www.youtube.com/watch?v=Rfaabjj7n9k) |  | [Link1](https://github.com/spearbit/portfolio/blob/master/content/slides/Huff-Spearbit-Demo.pdf)
-| [**ZK Series: Intro with Porter Adams**](https://youtu.be/QXdoMPzmEbE) |[Write-up](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | [Slides](https://github.com/spearbit/portfolio/blob/master/content/slides/SpearbitZK.pdf) |
-| [**Community Workshop: Riley Holterhus**](https://www.youtube.com/watch?v=_pO2jDgL0XE) | | [Slides](/content/slides/Spearbit_Maple_Workshop.pdf) |
-| [**EVM Seminar: 7 things about the EVM**](https://www.youtube.com/watch?v=XhfaG6cYulU)| | [Slides](https://hackmd.io/@axic/7-things-about-the-evm#/)|
-| [**OpenSeacurity with Spearbit**](https://www.youtube.com/watch?v=6snnoEI82N8)| | [Show notes](https://pastebin.com/cv9qdCnd) |
-| [**The Bridge Risk Framework Seminar**](https://www.youtube.com/watch?v=JVNgsmEc5Lk)| | [L2 Bridge Risk Framework](https://gov.l2beat.com/t/l2bridge-risk-framework/31/1) |
-| [**Fuzzing Tools Series: Certora Prover**](https://www.youtube.com/watch?v=9Gal-on-06E)| | -- |
-| [**Fuzzing Tools Series: Echidna**](https://www.youtube.com/watch?v=kAfknRlvAt0)|[Echidna Spearbit Demo](https://github.com/spearbit/echidna-spearbit-demo)| |
-| [**Forta Introduction Seminar**](https://www.youtube.com/watch?v=q8EDhheiEqA) | | -- |
-| [**Simple Security Toolkit Walkthrough**](https://www.youtube.com/watch?v=fir0-YiPtrE) |[Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit)|
-| [**Spearbit at TrustX: Languages**](https://www.youtube.com/watch?v=mFTAF8gNWz8)| |--|
-| [**Spearbit at TrustX: Simplify Solidity Code with Sorted Contracts and Security Risk**](https://www.youtube.com/watch?v=NmSGA8X2Tcw)| |--|
-| [**Understanding Bridge Security with Connext's Arjun Bhuptani**](https://www.youtube.com/watch?v=gQzRpU6GYhc)| |--|
-| [**How to Foundry**](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)|[Foundry Book](https://book.getfoundry.sh)| |
+| [**Arbiter - EVM logic simulator for security and performance testing**](https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s) | **Jepsen & Colin** | [Write-up](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | — |
+| [**WhatsABI? with Shazow**](https://www.youtube.com/watch?v=sfgassm8SKw&t=692s) | **Shazow** |  | — |
+| [**Circuit Safety and an Introduction to Noir (Aztec Network)**](https://www.youtube.com/watch?v=rLvu61DA-hk) | **Maddiaa & Maxim** | — |
+| [**Community Workshop: Clober**](https://youtu.be/9sbUCjfM6P4) | **Hickup** | | — |
+| [**Numerical Analysis for DeFi Audits**](https://youtu.be/7_5hbOFGJM8) | **Kurt Barry** | [Write-up](https://paragraph.xyz/@spearbit/numerical-analysis) | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Numerical%20Reasoning%20For%20DeFi%20Audits.pdf) |
+| [**Economic Security**](https://youtu.be/_E5juBbF9s4) | **fmrmf** | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Thinking_Through_Economic_Security.pdf) |
+| [**Security Education and Assessment Lab**](https://youtu.be/VhUUUN8Z-jw) |  **Rajeev** | | [Link](https://youtu.be/VhUUUN8Z-jw) |
+| [**Deep Dive Into Seaport**](https://youtu.be/LbrkzgoDR0g) | **0age** |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Deep_Dive_Into_Seaport.pdf) |
+| [**Optimal Front Running Attacks & How to Stop Them**](https://youtu.be/BwkNQWM32y0) |  **Max Resnick** | | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Optimal_Frontrunning_Attacks_and_How_to_Stop_Them_2.pdf) |
+| [**From Exploit to Recovery: Unraveling DeFi Incidents**](https://youtu.be/oIw6DG75-z4) |  **Spreek** |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/From%20Exploit%20to%20Recovery_%20Unraveling%20DeFi%20Incidents.pdf) |
+| [**Community Workshop**](https://youtu.be/PPfhIiclupc) | **Zach Obront** |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Spearbit-Astaria-Workshop.pdf) |
+| [**How to Foundry 2.0**](https://youtu.be/EHrvD5c93JU) | **Brock Elmore** |  | [Link](https://github.com/nascentxyz/How-to-Foundry) |
+| [**EVM Through HUFF**](https://www.youtube.com/watch?v=Rfaabjj7n9k) | **Devtooligan** | | [Link1](https://github.com/spearbit/portfolio/blob/master/content/slides/Huff-Spearbit-Demo.pdf)
+| [**ZK Series: Intro**](https://youtu.be/QXdoMPzmEbE) | **Porter Adams** | [Write-up](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | [Slides](https://github.com/spearbit/portfolio/blob/master/content/slides/SpearbitZK.pdf) |
+| [**Community Workshop**](https://www.youtube.com/watch?v=_pO2jDgL0XE) | **Riley Holterhus** || [Slides](/content/slides/Spearbit_Maple_Workshop.pdf) |
+| [**EVM Seminar: 7 things about the EVM**](https://www.youtube.com/watch?v=XhfaG6cYulU)| **Alex Beregszaszi** | | [Slides](https://hackmd.io/@axic/7-things-about-the-evm#/)|
+| [**OpenSeacurity with Spearbit**](https://www.youtube.com/watch?v=6snnoEI82N8)| **OpenSea + Spearbit Teams** | | [Show notes](https://pastebin.com/cv9qdCnd) |
+| [**The Bridge Risk Framework Seminar**](https://www.youtube.com/watch?v=JVNgsmEc5Lk)| **Vaibhav Chellani** | | [L2 Bridge Risk Framework](https://gov.l2beat.com/t/l2bridge-risk-framework/31/1) |
+| [**Fuzzing Tools Series: Certora Prover**](https://www.youtube.com/watch?v=9Gal-on-06E)| **Michael George** | | -- |
+| [**Fuzzing Tools Series: Echidna**](https://www.youtube.com/watch?v=kAfknRlvAt0)| **Gustavo Grieco** | [Echidna Spearbit Demo](https://github.com/spearbit/echidna-spearbit-demo)| |
+| [**Forta Introduction Seminar**](https://www.youtube.com/watch?v=q8EDhheiEqA) | **Christian Seifert and Andy Beal** | | -- |
+| [**Simple Security Toolkit Walkthrough**](https://www.youtube.com/watch?v=fir0-YiPtrE) | **Brock Elmore** |  [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit)|
+| [**Spearbit at TrustX: Languages**](https://www.youtube.com/watch?v=mFTAF8gNWz8)| **Panel** |   |--|
+| [**Spearbit at TrustX: Simplify Solidity Code with Sorted Contracts and Security Risk**](https://www.youtube.com/watch?v=NmSGA8X2Tcw)| **Spencer, Gerard, and Rey** | |--|
+| [**Understanding Bridge Security**](https://www.youtube.com/watch?v=gQzRpU6GYhc)| **Arjun Bhuptani** | |--|
+| [**How to Foundry**](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)|[Foundry Book](https://book.getfoundry.sh)| **Brock Elmore** | |
 
 ## Protocol Diagrams
 
