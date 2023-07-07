@@ -100,7 +100,7 @@ These seminars and breakdowns provide deep technical content for security resear
 | [**Spearbit at TrustX: Languages**](https://www.youtube.com/watch?v=mFTAF8gNWz8)| **Panel** |   |--|
 | [**Spearbit at TrustX: Simplify Solidity Code with Sorted Contracts and Security Risk**](https://www.youtube.com/watch?v=NmSGA8X2Tcw)| **Spencer, Gerard, and Rey** | |--|
 | [**Understanding Bridge Security**](https://www.youtube.com/watch?v=gQzRpU6GYhc)| **Arjun Bhuptani** | |--|
-| [**How to Foundry**](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)|[Foundry Book](https://book.getfoundry.sh)| **Brock Elmore** | |
+| [**How to Foundry**](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)| **Brock Elmore** |[Foundry Book](https://book.getfoundry.sh) | |
 
 ## Protocol Diagrams
 
