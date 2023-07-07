@@ -74,7 +74,7 @@ These seminars and breakdowns provide deep technical content for security resear
 
 | Title | Author | Written Breakdown | Additional Resources |
 | --- | --- | --- | --- |
-| [**Community Workshop: Sudoswap**](https://youtu.be/ObtRRW5yERY) | **Rajeev, Cryptonicle1 and Deivitto** | — | |
+| [**Community Workshop: Sudoswap**](https://youtu.be/ObtRRW5yERY) | **Rajeev, Cryptonicle1, and Deivitto** | — | |
 | [**Arbiter - EVM logic simulator for security and performance testing**](https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s) | **Jepsen & Colin** | [Write-up](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | — |
 | [**WhatsABI? with Shazow**](https://www.youtube.com/watch?v=sfgassm8SKw&t=692s) | **Shazow** |  | — |
 | [**Circuit Safety and an Introduction to Noir (Aztec Network)**](https://www.youtube.com/watch?v=rLvu61DA-hk) | **Maddiaa & Maxim** | — |
