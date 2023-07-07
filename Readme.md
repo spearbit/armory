@@ -94,13 +94,13 @@ These seminars and breakdowns provide deep technical content for security resear
 | [**OpenSeacurity with Spearbit**](https://www.youtube.com/watch?v=6snnoEI82N8)| **OpenSea + Spearbit Teams** | | [Show notes](https://pastebin.com/cv9qdCnd) |
 | [**The Bridge Risk Framework Seminar**](https://www.youtube.com/watch?v=JVNgsmEc5Lk)| **Vaibhav Chellani** | | [L2 Bridge Risk Framework](https://gov.l2beat.com/t/l2bridge-risk-framework/31/1) |
 | [**Fuzzing Tools Series: Certora Prover**](https://www.youtube.com/watch?v=9Gal-on-06E)| **Michael George** | | -- |
-| [**Fuzzing Tools Series: Echidna**](https://www.youtube.com/watch?v=kAfknRlvAt0)| **Gustavo Grieco** | [Echidna Spearbit Demo](https://github.com/spearbit/echidna-spearbit-demo)| |
+| [**Fuzzing Tools Series: Echidna**](https://www.youtube.com/watch?v=kAfknRlvAt0)| **Gustavo Grieco** | | [Echidna Spearbit Demo](https://github.com/spearbit/echidna-spearbit-demo)| 
 | [**Forta Introduction Seminar**](https://www.youtube.com/watch?v=q8EDhheiEqA) | **Christian Seifert and Andy Beal** | | -- |
-| [**Simple Security Toolkit Walkthrough**](https://www.youtube.com/watch?v=fir0-YiPtrE) | **Brock Elmore** |  [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit)|
+| [**Simple Security Toolkit Walkthrough**](https://www.youtube.com/watch?v=fir0-YiPtrE) | **Brock Elmore** |  | [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit)
 | [**Spearbit at TrustX: Languages**](https://www.youtube.com/watch?v=mFTAF8gNWz8)| **Panel** |   |--|
 | [**Spearbit at TrustX: Simplify Solidity Code with Sorted Contracts and Security Risk**](https://www.youtube.com/watch?v=NmSGA8X2Tcw)| **Spencer, Gerard, and Rey** | |--|
 | [**Understanding Bridge Security**](https://www.youtube.com/watch?v=gQzRpU6GYhc)| **Arjun Bhuptani** | |--|
-| [**How to Foundry**](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)| **Brock Elmore** |[Foundry Book](https://book.getfoundry.sh) | |
+| [**How to Foundry**](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)| **Brock Elmore** | | [Foundry Book](https://book.getfoundry.sh) | 
 
 ## Protocol Diagrams
 
