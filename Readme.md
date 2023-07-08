@@ -109,6 +109,6 @@ This section will serve to provide public visuals and diagrams of the complex sy
 | Title | Researcher | Protocol(s) | Diagram Link |
 | ---- | ---- | ---- | ---- |
 | **Sudoswap V2 Diagram** | **Gerard Persoon** | **Sudoswap** | [**Diagram**](https://twitter.com/sudoswap/status/1671985441820798976?s=20) |
+| **Lukso Diagram** | **Gerard Persoon** | **Lukso** | [**Diagram**](https://twitter.com/gpersoon/status/1676588871255990272) |
 | **Compound Finance Governance and Lending/Borrowing** | **Jonatas** | **Compound** | [**Diagram**](https://twitter.com/SpearbitDAO/status/1677032020814315521?s=20) |
 | **Metastreet State Diagram** | **Jonatas** | **Metastreet** | [**Diagram**](https://twitter.com/SpearbitDAO/status/1677032031245443076?s=20) |
-
