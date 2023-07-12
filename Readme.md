@@ -32,11 +32,12 @@ This section contains all externally available educational material from Spearbi
 
 These breakdowns are concise and guided write-ups of findings from some of Spearbit’s top researchers. Study them intently in order to extract the process and perspective of some of the best researchers in the game.
 
-| Title | Risk | Protocol(s) | Written Breakdown | Full Report Link |
+| Title | Risk | Protocol(s) | Written Breakdown | Report Link |
 | --- | --- | --- | --- | --- |
-| **Aave v3 Dependency** | **Critical** | Morpho Labs and Aave | [Breakdown](https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf) |
-| **Balancer Dependenc**y | **Critical** | Aera Finance and Balancer | [Breakdown](https://twitter.com/spearbitdao/status/1664726990618869762?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf) |
-| **“Clones-with-immutable-args” and improper Bytes Validation** | **Critical** | Sudoswap | [Breakdown](https://twitter.com/spearbitdao/status/1669088951238311943?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf) |
+| **Aave v3 Dependency** | **Critical** | Morpho Labs and Aave | [Breakdown](https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf) |
+| **Balancer Dependenc**y | **Critical** | Aera Finance and Balancer | [Breakdown](https://twitter.com/spearbitdao/status/1664726990618869762?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf) |
+| **“Clones-with-immutable-args” and improper Bytes Validation** | **Critical** | Sudoswap | [Breakdown](https://twitter.com/spearbitdao/status/1669088951238311943?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf) |
+| **Polygon zkEVM Flawed Division Remainder Check** | **Critical** | Polygon zkEVM | [Breakdown](https://twitter.com/SpearbitDAO/status/1679189382907953180?s=20) | [Report](https://github.com/spearbit/portfolio/blob/master/pdfs/PolygonzkEVM-Protocol/zkEVM-engagement-1-Spearbit-27-March.pdf) |
 
 ## Spearbit Tips
 
@@ -51,7 +52,6 @@ Spearbit Tips is a weekly initiative to introduce general recommendations for se
 | 5 | **In-line Comments** | **Hickup** | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
 | 6 | **Human Error and Test Coverage** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1674505243957026818?s=20) |
 | 7 | **Protocol Diagramming** | **Jonatas** | [Write-up](https://twitter.com/SpearbitDAO/status/1677031987612098562?s=20) |
-
 
 
 ## Researcher Spotlights
