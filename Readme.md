@@ -1,4 +1,4 @@
-![ARMORY](https://github.com/obheda12/portfolio/blob/master/ARMORY%20(2).png)
+![Spearbit Armory GitHub Banner](https://github.com/spearbit/armory/assets/35583758/5755d785-c83d-4340-8edf-769147097875)
 
 <br>
 
