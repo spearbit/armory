@@ -31,7 +31,7 @@ This section contains all externally available educational material from Spearbi
 
 **Tldr**; We believe in elevating the standard for security research, thus our content will reflect the same.
 
-# ZKP Education
+## ZKP Education
 
 This section contains ZKP resources produced by Spearbit researchers or invited seminar guests in order to provide a stronger base for researchers to develop their understanding of security posture within ZKPs
 
