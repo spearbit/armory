@@ -17,17 +17,32 @@ Spearbit is a distributed network of industry-leading security researchers tackl
 
 # Table of Contents
 - [Content Overview](#Content)
+- [ZKP Education](#ZKP-Education)
 - [Report and Findings Breakdowns](#Report-and-Finding-Breakdowns)
 - [Spearbit Tips](#Spearbit-Tips)
 - [Researcher Spotlights](#Researcher-Spotlights)
 - [Seminars and Breakdowns](#Seminars-and-Breakdowns)
 - [Protocol Diagrams](#Protocol-Diagrams)
 
+
 # Content
 
 This section contains all externally available educational material from Spearbit. The goal of publicizing and creating content like this is to foster and support a community of dedicated researchers consistently motivated to take the next step in their web3 security knowledge and for that material to be just as beneficial to those with more experience in the field as it is to juniors.
 
 **Tldr**; We believe in elevating the standard for security research, thus our content will reflect the same.
+
+# ZKP Education
+
+This section contains ZKP resources produced by Spearbit researchers or invited seminar guests in order to provide a stronger base for researchers to develop their understanding of security posture within ZKPs
+
+| Title | Type | Media Link |
+| --- | --- | --- |
+| **Introduction to ZKPs** | Seminar | [Video](https://www.youtube.com/watch?v=QXdoMPzmEbE&t=27s&ab_channel=Spearbit) | 
+| **Demsytifying ZKPs** | Write-up | [Article](https://paragraph.xyz/@spearbit/demystifying-zkps-with-porter-adams) | 
+| **Intoduction to ZKP Security** | Seminar | [Video](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be) | 
+| **Nova: ZK Bug of the Year Breakdown** | Seminar | [Video](https://www.youtube.com/watch?v=SOAQCL1NaYY&ab_channel=Spearbit) | 
+| **Analyzing Polygon zkEVM: PIL State Machines** | Seminar | [Video](https://www.youtube.com/watch?v=CeEADadsbTI&ab_channel=Spearbit) | 
+| **Polygon zkEVM Flawed Division Vulnerability Breakdown** | Thread | [Thread](https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw) | 
 
 ## Report and Finding Breakdowns
 
