@@ -42,7 +42,9 @@ This section contains ZKP resources produced by Spearbit researchers or invited 
 | **Intoduction to ZKP Security** | Seminar | [Video](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be) | 
 | **Nova: ZK Bug of the Year Breakdown** | Seminar | [Video](https://www.youtube.com/watch?v=SOAQCL1NaYY&ab_channel=Spearbit) | 
 | **Analyzing Polygon zkEVM: PIL State Machines** | Seminar | [Video](https://www.youtube.com/watch?v=CeEADadsbTI&ab_channel=Spearbit) | 
-| **Polygon zkEVM Flawed Division Vulnerability Breakdown** | Thread | [Thread](https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw) | 
+| **Polygon zkEVM Flawed Division Vulnerability Breakdown** | Thread + Manim | [Thread](https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw) | 
+| **Improper Rewards Calculation on Epoch Boundary** | Thread + Manim | [Thread](https://x.com/SpearbitDAO/status/1706741503756751235?s=20) | 
+
 
 ## Report and Finding Breakdowns
 
@@ -90,6 +92,11 @@ These seminars and breakdowns provide deep technical content for security resear
 
 | Title | Author | Written Breakdown | Additional Resources |
 | --- | --- | --- | --- |
+| [**Agent Buttercup - running agent-based models (ABMs) in an EVM environment**](https://youtu.be/hXUQR3rQ_7g?si=QmY9BHpMyVGPoCj9) | **Raghav Bansal** | — | |
+| [**Uniswap - Hyperfragmented Liquidity and Adversarial Mempools**](https://youtu.be/7BxVRrz7wCI?si=4cxjFtdgQiQKME-e) | **Xin Wan** | — | |
+| [**Cairo Security (Peteris Erins)**](https://youtu.be/9CIhHNrliW4?si=gD9i44Je7g719z8n) | **Peteris Erins** | — | |
+| [**Nova: The ZK Bug of the Year (by Wilson Nguyen)**](https://www.youtube.com/watch?v=SOAQCL1NaYY) | **mercysjest** | — | |
+| [**Web3 Private Infrastructure with HOPR**](https://youtu.be/hMIf_RUSq9o?si=iG56B-Bm2vqDhQTJ) | **scbuergel** | — | |
 | [**ZKP Security Overview**](https://youtu.be/8wsR7o0rOxU) | **rkm0959** | — | | 
 | [**Cross-Chain Security: LayerZero Labs**](https://youtu.be/ZR3y-aUyJNA) | **Ryan Zarick** | — | | 
 | [**Analyzing Polygon's zkEVM PIL State Machines**](https://youtu.be/CeEADadsbTI) | **Leonardo Alt** | — | | 
